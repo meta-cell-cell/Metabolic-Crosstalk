@@ -21,14 +21,3 @@ The model is intended as an “in- silico” tool capable of producing testable 
 The code makes use of the MATLAB COBRA package available here: https://opencobra.github.io/cobratoolbox/stable/ <br>
 The Gurobi Optimisation Package, whose license can be obtained at: https://www.gurobi.com/ <br>
 The IBM Optimisation Package (CPLEX Studio), whose license can be obtained at: https://www.ibm.com/uk-en/products/ilog-cplex-optimization-studio <br>
-
-Files:
-This repository, as of its latest version contains:
-
-Schematich diagram of the model.
-Schematic diagram of the metabolic network in the Myeloma cell.
-Schematic diagram of the metabolic network inn the BMMS cell.
-A MATLAB .m file (script) with the model (where instructions are further provided).
-About
-Multiple Myeloma
-
