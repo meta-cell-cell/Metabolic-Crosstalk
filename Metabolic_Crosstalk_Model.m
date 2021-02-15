@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Preliminary Co-culture Myeloma Model
+% Preliminary Co-culture Metabolic Crosstalk Model
 % Elias Siguenza
 % Institute of Metabolism and Systems Research (IMSR)
 % School of Medicine and Dentistry / School of Mathematics
